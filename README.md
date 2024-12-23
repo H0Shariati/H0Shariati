@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/bd/a2/8c/bda28c20cdd65df5192738daffe4c899.gif">
+![img](https://i.pinimg.com/originals/bd/a2/8c/bda28c20cdd65df5192738daffe4c899.gif)
 # 👋🏼 Hello World!, I'm Hanie, a Software Engineer <br>
 # 👨‍💻 About me :
 
