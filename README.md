@@ -1,4 +1,3 @@
-![img](https://miro.medium.com/v2/resize:fit:720/format:webp/0*QkQpEAQHt28u0RUg)
 # 👋🏼 Hello World!, I'm Hanie, a Software Engineer <br>
 # 👨‍💻 About me :
 
