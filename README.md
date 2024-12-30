@@ -9,9 +9,6 @@
 
 - 🙂I Like Programing 
 
-- 🙂I Like Programing 
-
-
 
 
 # 💻 Tech Stack :
